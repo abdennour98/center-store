@@ -1,1 +1,1 @@
-# center-store
+# ai-center-store
